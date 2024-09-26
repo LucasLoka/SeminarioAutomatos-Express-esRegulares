@@ -1,7 +1,8 @@
 # SeminarioAutomatos-ExpressoesRegulares
 
-#Lucas Lourenço de Lima - 01588150
-#Amhos Cezar Carneiro de Moraes - 01589117
+Lucas Lourenço de Lima - 01588150
+
+Amhos Cezar Carneiro de Moraes - 01589117
 
 
 
