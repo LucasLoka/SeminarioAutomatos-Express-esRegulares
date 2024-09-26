@@ -2,7 +2,9 @@
 
 - Lucas Lourenço de Lima - 01588150
 - Amhos Cezar Carneiro de Moraes - 01589117
-
+- Alisson da Silva Santana - 01565877
+- Talisson Marcelo L. Silva - 01360881
+- Carlos Adriano de Barros Cunha - 01595214
 
 
 # Expressões Regulares, Linguagens Formais e Autômatos
