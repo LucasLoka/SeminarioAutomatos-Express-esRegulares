@@ -1,4 +1,4 @@
-# SeminarioAutomatos-Express-esRegulares
+# SeminarioAutomatos-ExpressoesRegulares
 
 #Lucas Lourenço de Lima - 01588150
 #
